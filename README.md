@@ -61,15 +61,15 @@ Following the NeetCode roadmap:
 ```
 <topic>/
   <problem-name>/
-    submission-0.py
-    submission-1.py
+    submission-0.cpp
+    submission-1.cpp
 ```
 
 ### Example:
 
 ```
-arrays/two-sum/submission-0.py
-binary-search/search-in-rotated-array/submission-0.py
+arrays/two-sum/submission-0.cpp
+binary-search/search-in-rotated-array/submission-0.cpp
 ```
 
 ---
