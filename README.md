@@ -1,4 +1,4 @@
-# 🚀 NeetCode DSA Solutions — @azuu-rgb
+# NeetCode DSA Solutions — @azuu-rgb
 
 ![NeetCode Roadmap](./neetcode-roadmap.png)
 
@@ -43,11 +43,11 @@ Following the NeetCode roadmap:
 * Binary Search
 * Sliding Window
 * Linked List
-* Trees 🌳
+* Trees 
 * Tries
 * Heap / Priority Queue
 * Backtracking
-* Graphs 🌐
+* Graphs 
 * Dynamic Programming (1D & 2D)
 * Greedy
 * Intervals
@@ -102,5 +102,5 @@ Improve problem-solving skills and prepare for technical interviews by consisten
 
 
 
-> 💡 *Consistency > perfection. Keep coding.*
+>  *Consistency > perfection. Keep coding.*
 
